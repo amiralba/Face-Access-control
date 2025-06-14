@@ -91,8 +91,3 @@ Future Work
 	•	Web Dashboard: Live feed & analytics (React or Streamlit)
 	•	Raspberry Pi / Jetson: Edge deployment
 
-Screenshots
-
-License
-
-This project is licensed under the MIT License. See LICENSE for details.
